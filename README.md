@@ -12,7 +12,7 @@ Daniel.Trahan@Colorado.edu
 Wednesdays 3:30 pm - 5:00 pm
 
 ### Location:
-Zoom:  https://cuboulder.zoom.us/j/4239862482
+Zoom: (Link in weekly event email)
 
 ### Description:  
 This workshop series will provide a brief overview of Python programming and some research-useful Python packages. This course will not cover “how to program;" attendees are expected to have introductory-level experience in at least one other programming language. 
