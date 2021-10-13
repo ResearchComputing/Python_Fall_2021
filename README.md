@@ -34,6 +34,8 @@ Nov 17: Efficient Python programming with NumPy
 Dec 1: Plotting with Matplotlib    
 Dec 8: H5Py  
 
+### Course Survey
+http://tinyurl.com/curc-survey18 
 
 ### Reference Material:  
 [How to Think Like a Computer Scientist (FREE online text)](http://openbookproject.net/thinkcs/python/english3e/)  
